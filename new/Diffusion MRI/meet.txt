@@ -1,0 +1,40 @@
+True non-zero weights at: [16489 12887 12810]
+True weights: [0.22358992 0.25737755 0.96950447]
+True lambdas: [0.0114511  0.00280548 0.00034886]
+Initializations done
+Time taken for initializations: 3.2774364948272705 seconds
+-------------------------------------
+100.0 % Done
+Time taken for information criteria: 13301.895146608353 seconds
+-------------------------------------
+Best fit lambdas using BIC criterion: [0.00353553 0.012      0.0003    ]
+Non-zero weights using BIC criterion at: [12269 10698 13287 16807  6502  3492 16872  7718 17183  4334  3104]
+Weights using BIC criterion: [0.03043121 0.0304343  0.03068373 0.03624208 0.06142891 0.0651581
+ 0.0866327  0.09048263 0.17622571 0.19340213 0.30138121]
+Rel. RMSE: 1.0849688844830718
+Sensitivity: 0.0
+Specificity: 0.9993955047535308
+-------------------------------------
+Best fit lambdas using EBIC criterion: [0.02       0.003      0.00042426]
+Non-zero weights using EBIC criterion at: [ 7405  3773 12841 12810  3719]
+Weights using EBIC criterion: [0.05387083 0.06392965 0.08078366 0.29960729 0.32490736]
+Rel. RMSE: 0.8047942771520838
+Sensitivity: 0.3333333333333333
+Specificity: 0.9997801835467385
+-------------------------------------
+Best fit lambdas using EFIC criterion: [0.02       0.003      0.00042426]
+Non-zero weights using EFIC criterion at: [ 7405  3773 12841 12810  3719]
+Weights using EFIC criterion: [0.05387083 0.06392965 0.08078366 0.29960729 0.32490736]
+Rel. RMSE: 0.8047942771520838
+Sensitivity: 0.3333333333333333
+Specificity: 0.9997801835467385
+-------------------------------------
+Best fit lambdas using EBIC_robust criterion: [0.02       0.003      0.00042426]
+Non-zero weights using EBIC_robust criterion at: [ 7405  3773 12841 12810  3719]
+Weights using EBIC_robust criterion: [0.05387083 0.06392965 0.08078366 0.29960729 0.32490736]
+Rel. RMSE: 0.8047942771520838
+Sensitivity: 0.3333333333333333
+Specificity: 0.9997801835467385
+-------------------------------------
+Time taken for plotting: 1912.0199449062347 seconds
+-------------------------------------
